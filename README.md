@@ -15,6 +15,6 @@ ClubPimble: http://www.clubpimble.com/current-affairs/5-indian-students-win-seco
 
 ### Video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CfCUikpo3g4
 " target="_blank"><img src="http://img.youtube.com/vi/CfCUikpo3g4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
